@@ -13,6 +13,4 @@ echo array_sum($my_array);      //prints 200
 ?>
 
 </body>
-
-
 </html>
